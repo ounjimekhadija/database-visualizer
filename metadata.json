@@ -1,0 +1,5 @@
+{
+  "name": "Database Visualizer",
+  "description": "Visualize and interact with your database tables and relationships in real-time.",
+  "requestFramePermissions": []
+}
